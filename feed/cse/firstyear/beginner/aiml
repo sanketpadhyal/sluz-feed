@@ -1,0 +1,281 @@
+# 🚀 First Year CSE AIML Roadmap 2026–2027  
+**Very Simple English • Complete Beginner Friendly • Long & Detailed Guide**  
+**For First-Year B.Tech CSE / AIML / AI & DS Students in India**
+
+Hello!  
+You are in **first year B.Tech CSE / AIML** (or similar branch) in India.  
+Your goal = become a good **AI / Machine Learning Engineer** or **Data Scientist** in future.  
+This roadmap is **very simple**, **step by step**, **long & detailed** so you understand everything clearly.  
+No big words, no pressure. Just small daily steps.  
+
+Most first-year students waste time on reels, only college syllabus, or jumping everywhere.  
+**You will not.**  
+Small daily work → big results in 2–3 years → good internships → high salary job (10–30+ LPA possible).
+
+**Important Truth 2026–2027**  
+- AI / ML jobs are growing fast in India  
+- Companies want: Python + Maths basics + ML projects + DSA (medium level)  
+- Good colleges + self-learning = job even from tier-2/3 college  
+- Start early = you will be ahead
+
+### Your Starting Point (First Year Beginner)
+You know almost nothing or very little.  
+That is okay! Everyone starts here.
+
+**What you should have after 6 months (end of first year):**
+- Python very comfortable
+- 150–300 easy DSA problems
+- 3–6 small Python projects
+- Basic ML understanding (what is AI, ML, data)
+- GitHub started
+- CGPA >7.0–7.5 (no backlogs)
+
+**What you should have after second year:**
+- 500–700 DSA (mostly easy-medium)
+- Basic ML + Deep Learning projects
+- 8–12 good projects (deployed)
+- 30–70 internship applications
+- Ready for third-year good internships
+
+Now let’s start the full roadmap.
+
+## Phase 0 – First 1–2 Months – Mindset + Setup (Start NOW)
+
+### 1. Simple Mindset
+- You are not late — you are in first year — most start in third year
+- No zero days — even 30–45 min daily is good
+- Compare only with yourself last month
+- College exams important — keep CGPA >7.0
+- Mistakes are okay — learn from them
+- Small daily work = big future
+
+### 2. Easy Tracking (Use Notebook or Google Sheet)
+Write every week:
+- Week number
+- How many problems solved
+- What project I worked on
+- Hours studied
+- One good thing I did
+- One thing to improve
+
+### 3. Make Accounts (Do in First Week)
+- GitHub (username simple: yourname-ai or sanket-aiml)
+- LinkedIn (headline: "B.Tech CSE AIML '29 | Learning Python & ML")
+- LeetCode / CodeChef account
+- Google account for Drive / Sheets
+
+### 4. Daily Time Table (Choose One)
+**Only 1 hour free:**
+- 30 min Python / DSA
+- 20 min watch video
+- 10 min revise
+
+**2–3 hours free:**
+- 1 hour DSA / Python practice
+- 1 hour project or ML video
+- 30 min English / communication practice
+
+### 5. Health First (Don’t Skip)
+- Sleep 7 hours
+- Walk 20–30 min daily
+- Drink water
+- No all-night study — brain needs rest
+
+## Phase 1 – Months 1–6 (First Year – Build Base)
+
+### 1. Learn Python Very Well (Most Important for AIML)
+Python is language of AI / ML. Master it first.
+
+**Step-by-Step What to Learn:**
+1. Install Python + VS Code (1 day)
+2. Print, input, variables, data types (int, float, str, bool)
+3. If-else, loops (for, while)
+4. Lists, tuples, dictionaries, sets
+5. Functions (normal, lambda)
+6. File reading/writing
+7. Basic OOP (class, object, __init__)
+8. Modules (import math, random, datetime)
+9. Exception handling (try-except)
+10. List comprehension
+
+**Resources (Free & Easy):**
+- CodeWithHarry Python (Hindi) – best for beginners
+- Apna College Python playlist
+- freeCodeCamp Python (English)
+- Automate the Boring Stuff with Python (free book online)
+
+**Goal:** Write small programs without seeing video (like calculator, guessing game)
+
+### 2. Start Easy DSA in Python
+DSA is important even for AI jobs (interviews ask)
+
+**Platforms:**
+- CodeChef (starters)
+- LeetCode (easy problems)
+- GeeksforGeeks practice
+
+**First 6 months topics (easy only):**
+- Patterns (stars, numbers)
+- Basic math (prime, factorial, sum digits)
+- Arrays / Lists (sum, max, reverse, rotate)
+- Strings (palindrome, count vowels, reverse)
+- Simple recursion (factorial, fibo)
+- Basic searching & sorting
+
+**Target:** 150–300 easy problems  
+Do 4–7 problems per week — think first, don’t copy
+
+### 3. First Small Projects (Use Python)
+Do 4–6 small projects in first year.
+
+Ideas:
+1. Number Guessing Game
+2. To-Do List (save in file)
+3. Quiz Game (MCQ)
+4. Student Marks Manager (add, show, average)
+5. Simple Calculator with menu
+6. Password Generator
+
+**Rule:** Finish one project every 4–6 weeks. Put on GitHub.
+
+### 4. Start Understanding AI / ML Basics
+Watch easy videos — no deep math yet.
+
+**What to Learn (Simple):**
+- What is AI? (like Siri, ChatGPT)
+- What is Machine Learning? (learn from data)
+- Types: supervised, unsupervised
+- What is data? (numbers, text, images)
+- Simple libraries: numpy, pandas intro
+
+**Resources:**
+- Apna College AI playlist (Hindi)
+- CodeWithHarry ML intro
+- 3Blue1Brown Neural Network video (English, very beautiful)
+
+**Goal:** Understand “ML = computer learns from examples”
+
+## Phase 2 – Months 7–12 (End First Year to Mid Second Year)
+
+### 1. DSA – Go to Medium Level Slowly
+Now increase difficulty — but slowly.
+
+**Topics:**
+- Advanced arrays (Kadane, two pointers easy)
+- Linked List basics (reverse, cycle)
+- Stack & Queue simple
+- Binary Search more problems
+- Recursion medium (subsets, permutations easy)
+
+**Target:** 400–600 total problems (250–400 medium)
+
+**Tip:** Solve 5–8 problems per week — no hurry
+
+### 2. Full Python for AI
+- Numpy (arrays, math operations)
+- Pandas (read CSV, clean data, group by)
+- Matplotlib / Seaborn (simple charts)
+- Scikit-learn intro (simple models)
+
+**Resources:**
+- Kaggle Python course (free)
+- CampusX YouTube (Hindi ML)
+
+### 3. First ML Projects
+Do 3–5 simple ML projects.
+
+Ideas:
+1. Predict house price (simple linear regression)
+2. Iris flower classification
+3. Titanic survival prediction (Kaggle)
+4. Spam email detector
+5. Handwritten digit recognizer (MNIST)
+
+**Where to get data:** Kaggle.com (free datasets)
+
+**Goal:** Understand train-test split, accuracy, confusion matrix
+
+### 4. GitHub & Deployment
+- Make every project repo nice
+- Deploy simple apps: Streamlit (very easy for ML)
+- Example: deploy house price predictor online
+
+## Phase 3 – Second Year – Become Strong in AIML
+
+### 1. DSA – Medium Comfortable
+- Trees basics (binary tree traversal)
+- Graphs intro (BFS/DFS)
+- Greedy & DP easy problems
+
+**Target:** 600–900 total (400+ medium)
+
+### 2. Deep into Machine Learning
+- Supervised learning: regression, classification
+- Unsupervised: clustering, PCA
+- Evaluation metrics (accuracy, precision, recall, F1, ROC)
+- Overfitting / underfitting
+- Cross-validation
+
+**Libraries:**
+- Scikit-learn full
+- TensorFlow / PyTorch intro
+
+### 3. Deep Learning Basics
+- What is neural network?
+- Activation functions
+- Loss functions
+- Backpropagation simple
+- CNN intro (image classification)
+
+**Projects:**
+- Image classification (cats vs dogs)
+- Sentiment analysis (movie reviews)
+- Simple chatbot
+
+### 4. Good Projects for Resume
+1. Movie Recommendation System
+2. Face Mask Detector
+3. Stock Price Prediction
+4. Plant Disease Detection
+5. Chatbot with API
+
+**Deploy:** Streamlit / Hugging Face Spaces / Vercel
+
+## Phase 4 – Internship & Placement Prep (End Second Year)
+
+- Apply on Internshala, LinkedIn, AngelList
+- Make resume: projects + GitHub + DSA count
+- Practice explaining projects
+- Mock interviews (friends / YouTube)
+
+**Target:** 1 internship in summer 2027 (AI/ML/Data role)
+
+## End of Second Year Checklist
+- [ ] Python + Numpy/Pandas comfortable
+- [ ] 600–900 DSA problems
+- [ ] 10–15 good projects (deployed)
+- [ ] Basic ML models built
+- [ ] GitHub 150+ commits
+- [ ] 30–70 applications sent
+- [ ] CGPA safe
+
+## Mistakes to Avoid
+- Only watch videos — not code
+- Jumping libraries without basics
+- No deployment — show live work
+- Skipping DSA — interviews ask
+- Burnout — take rest
+
+## Final Words
+Bro, you are in first year but already thinking big — that’s rare.  
+Do small work every day.  
+One problem, one feature, one video — it adds up.  
+You don’t need to be perfect — just keep going.
+
+Start today.  
+Open Python.  
+Solve one easy problem.  
+Watch one short video.
+
+Future AI Engineer — that’s you.  
+Keep learning, stay happy. 💪
