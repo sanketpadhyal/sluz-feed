@@ -1,0 +1,145 @@
+# Complete Competitive Programming Journey on HackerEarth  
+Beginner → Intermediate → Advanced (2026 Edition)
+
+A structured, self-paced roadmap to go from "I don't know coding" to solving 1900+ rated problems on HackerEarth / similar platforms.
+
+## Who is this for?
+- Zero to low experience in coding
+- College students preparing for placements / internships
+- Anyone who wants strong problem-solving & DSA skills
+- People who find LeetCode too dry and want more beginner-friendly tutorials + contests
+
+**Main Platform:** [HackerEarth Practice](https://www.hackerearth.com/practice/)  
+→ Excellent tutorials + categorized problems + monthly contests
+
+## Phase 0: Choose Your Language (1–3 weeks)
+Pick **one** language and become comfortable writing & debugging code.
+
+Recommended order (easiest → powerful):
+1. **Python** → very beginner friendly (recommended for absolute beginners)
+2. **C++**   → fastest & most used in competitive programming (recommended after basics)
+3. Java / others → only if you already know them
+
+**Goal:**  
+- Variables, loops, if-else, functions, arrays/strings  
+- Input / Output correctly (very important on HackerEarth!)
+
+**HackerEarth starting points:**
+- [Basics of Input/Output](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/)
+- [Basics of Implementation](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/)
+
+**Practice:** Solve 30–50 very easy problems from **Basic Programming** section.
+
+## Phase 1: Beginner Level – Build Logic & Confidence (1–3 months)
+Focus → Simple patterns, math tricks, implementation
+
+**Main Topics & HackerEarth Sections**
+1. **Basic Programming** track (start here!)
+   - Input/Output
+   - Implementation
+   - Operators & Bitwise
+   - Recursion (very basic)
+
+2. **Math** section
+   - Number Theory basics (GCD, LCM, Prime, Modular)
+   - [Basic Number Theory - 1](https://www.hackerearth.com/practice/math/basic-number-theory-1/)
+
+3. **Arrays & Strings** (1-D)
+   - [1-D Arrays](https://www.hackerearth.com/practice/data-structures/arrays/1-d/)
+
+**Milestones to achieve**
+- Solve 150–200 easy problems
+- Participate in 4–5 **HackerEarth Circuits** (monthly beginner-friendly contest)
+- Comfortable with time limit \~1s & 256MB memory
+
+**Tips**
+- Read problem statement 2–3 times
+- Dry run on paper with small examples
+- Use Python first if stuck → later convert to C++
+
+## Phase 2: Intermediate Level – Core Data Structures & Algorithms (3–8 months)
+Now things get serious.
+
+**Must-learn order (with HackerEarth sections)**
+
+| Order | Topic                          | HackerEarth Section / Tutorial                              | Approx. Problems |
+|-------|--------------------------------|---------------------------------------------------------------------|------------------|
+| 1     | Time & Space Complexity        | Read articles + watch any 15-min video                     | —                |
+| 2     | Arrays + Sorting + Searching   | 1-D, Multi-dimensional, Sorting section                    | 80–120           |
+| 3     | Stacks & Queues                | [Basics of Stacks](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/) <br>Basics of Queues | 40–70            |
+| 4     | Hashing / Maps                 | [Basics of Hash Tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/) | 40–80            |
+| 5     | Binary Search & Two Pointers   | Practice in Arrays & Math sections                         | 50–80            |
+| 6     | Recursion + Backtracking       | [Recursion and Backtracking](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/) | 40–70            |
+| 7     | Greedy Algorithms              | Greedy section + many implementation problems              | 50–90            |
+| 8     | Basic Bit Manipulation         | Bit section + problems                                     | 30–60            |
+
+**Milestones**
+- Solve 400–600 medium-level problems
+- Reach **HackerEarth rating \~1400–1600**
+- Solve at least 2–3 medium problems in every contest
+- Start **CodeMonk** tracks on HackerEarth (very well structured)
+
+## Phase 3: Advanced Level – Expert Competitive Programmer (8+ months)
+Goal: Solve hard problems quickly, understand editorials fast
+
+**Advanced Topics (learn in this order)**
+
+1. **Binary Search on Answer** + Ternary Search
+2. **Advanced Number Theory** (Sieve variants, Modular Inverse, Euler Totient, Chinese Remainder)
+3. **Graph Algorithms**
+   - BFS / DFS
+   - Shortest Path (Dijkstra, Bellman-Ford)
+   - MST (Kruskal + Prim)
+   - Topological Sort
+   - Strongly Connected Components
+
+4. **Dynamic Programming** (the game changer)
+   - 1D DP
+   - 2D DP
+   - DP on Trees
+   - Digit DP
+   - Bitmask DP
+
+5. **Advanced Data Structures**
+   - Segment Tree / Fenwick Tree (Binary Indexed Tree)
+   - Trie
+   - Disjoint Set Union (with path compression + union by rank)
+
+6. **Strings Advanced**
+   - KMP / Z-algorithm
+   - Suffix Array / Suffix Automata (optional for very high level)
+
+**Practice Strategy**
+- Solve **HackerEarth Algorithms** section → 976+ problems!
+- Solve previous **HackerEarth long challenges** (5-day contests)
+- Upsolve every contest you participate in
+- Read editorials even if you solved the problem
+
+**Target**
+- Consistent top 20–30% in HackerEarth contests
+- Rating 1800+ on HackerEarth / equivalent \~1900+ Codeforces
+
+## Recommended Habits
+- Solve at least 4–5 problems every day
+- Participate in **every** HackerEarth contest possible
+- Make a **public list** of solved problems (this repo!)
+- Revise weak topics every 2–3 weeks
+- Help others in discussion → you learn more
+
+## Useful HackerEarth Links
+- Practice Home: https://www.hackerearth.com/practice/
+- CodeMonk (guided learning): https://www.hackerearth.com/codemonk/
+- Monthly Contests: https://www.hackerearth.com/challenges/
+- All Tutorials: Search inside practice → click "tutorial" tab
+
+## Final Note
+> "Competitive programming is 10% talent and 90% consistent hard work."
+
+Start small.  
+Solve one problem today.  
+In 12–18 months you can be very strong.
+
+Good luck! 🚀  
+Feel free to star this repo & contribute your own notes/solutions.
+
+Last updated: March 2026
