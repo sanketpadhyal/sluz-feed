@@ -1,0 +1,164 @@
+# 🚀 HackerRank – From Zero to Hero (Beginner → Advanced)
+
+A complete, step-by-step guide to go from "I don't know coding" to solving hard problems confidently on HackerRank — and getting interview-ready.
+
+**Goal**:  
+Build strong problem-solving skills + get good at coding interviews (FAANG, startups, product companies, etc.)
+
+**Time estimate** (serious daily practice):  
+- Beginner → Intermediate: 3–6 months  
+- Intermediate → Advanced: 6–12 months (depends on consistency)
+
+## Who is this guide for?
+
+- Never coded before  
+- Know basics but stuck on easy problems  
+- Want to crack coding interviews  
+- Preparing for college placements / off-campus jobs  
+- Self-learner who wants structured path
+
+## Choose Your Language First (Important!)
+
+Pick **one** language and stick to it for at least 6–9 months.
+
+Recommended for beginners in 2025–2026:
+
+| Language     | Difficulty for Beginners | Job Demand | Best For                  | HackerRank Support |
+|--------------|---------------------------|------------|---------------------------|--------------------|
+| Python       | ★☆☆ Very Easy            | Very High  | Fast learning, interviews | Excellent         |
+| C++          | ★★★ Hard syntax          | High       | Competitive programming   | Excellent         |
+| Java         | ★★ Medium                | High       | Enterprise, Android       | Very Good         |
+| JavaScript   | ★★ Medium                | Very High  | Web + full-stack          | Good              |
+
+**Recommendation for 95% people**: Start with **Python** → later learn C++ if needed for CP.
+
+## Phase 0: Setup (1–2 days)
+
+1. Create free account → https://www.hackerrank.com  
+2. Complete your profile (add skills, college, etc.)  
+3. Set default language to Python (or your choice)  
+4. Go to **Settings** → Editor → Try "Monaco" or "Vim" mode  
+5. Bookmark: Problem Solving section
+
+## Phase 1: Absolute Beginner (0–4 weeks)
+
+Focus: Learn syntax + how to think like a programmer
+
+**Best starting point on HackerRank**:
+
+- **30 Days of Code** → https://www.hackerrank.com/domains/tutorials/30-days-of-code  
+  (Best structured beginner course — do it in your chosen language)
+
+- After that → **Problem Solving → Introduction** section
+
+**Topics to master in order**:
+
+1. Input / Output (very important on HackerRank!)
+2. Variables & Data Types
+3. If-else, conditions
+4. Loops (for, while)
+5. Basic math operations
+6. Strings (upper, lower, split, join)
+7. Lists / Arrays basics
+
+**Daily target**: 2–4 easy problems + revise concepts
+
+## Phase 2: Beginner → Comfortable (1–3 months)
+
+**Main section**: Problem Solving → Easy problems
+
+**Important topics & order**:
+
+1. Basic Data Types & Operators
+2. Strings (advanced manipulation)
+3. Arrays / Lists (1D)
+4. Sorting & Searching basics
+5. Simple Math & Number Theory
+6. Bit Manipulation (easy problems only)
+7. Recursion basics (very few problems)
+
+**Milestone**: Solve **150–200 easy** problems  
+**Tip**: Read **Discuss** tab after solving (or when stuck > 30 min)
+
+## Phase 3: Intermediate (3–7 months)
+
+**Main sections**:
+
+- Problem Solving → Medium
+- Interview Preparation Kit (very important!)
+- 30 Days of Code → recap harder days
+- Certification Tests (Python/Java/C++/etc.)
+
+**Key topics**:
+
+1. Arrays (2D also)
+2. Hashmaps / Dictionaries
+3. Two Pointers
+4. Sliding Window
+5. Stack & Queue
+6. Linked List basics
+7. Binary Search
+8. Greedy Algorithms
+9. Basic Dynamic Programming (1D)
+10. Basic Graph (BFS/DFS intro)
+
+**Daily target**: 3–5 medium problems  
+**Milestone**: Solve **Interview Preparation Kit** completely + 250–350 medium problems
+
+**Take certifications** → they look good on resume/LinkedIn
+
+## Phase 4: Advanced / Interview Ready (7+ months)
+
+**Focus areas**:
+
+- Problem Solving → Hard
+- Algorithms domain
+- Data Structures domain
+- Contests (Weekly + Monthly)
+- Company-specific challenges (Google, Amazon folders if available)
+
+**Advanced topics**:
+
+1. Advanced Dynamic Programming (2D, state-based)
+2. Graphs (Shortest Path – Dijkstra, Bellman-Ford, Floyd-Warshall)
+3. Trees (Binary Tree, BST, Traversals)
+4. Heap / Priority Queue
+5. Trie
+6. Segment Tree / Fenwick Tree (if doing very high level CP)
+7. Advanced Bit Manipulation
+8. Game Theory basics
+
+**Milestone**:
+
+- Solve 100+ hard problems
+- Rank in top 10–20% in contests
+- Solve most Interview Preparation Kit + company tagged problems
+
+## General Tips That Actually Work
+
+- **Stuck > 30–45 min?** → Read editorial / discuss (but code yourself!)
+- **Revise** old solved problems every 2–3 weeks
+- **Make notes** of patterns (two pointers, sliding window, etc.)
+- **Don't compare** rank early — focus on understanding
+- **Consistency > intensity** — 1–2 hrs daily better than 10 hrs once a week
+- **Mock interviews** → use Pramp / Interviewing.io later
+- **Track progress** — use spreadsheets or LeetCode-style trackers
+
+## Suggested Weekly Schedule (Intermediate+)
+
+- Mon–Fri: 4–6 new problems (mostly medium/hard)
+- Sat: Contest + upsolve
+- Sun: Revise weak topics + old problems
+
+## Resources to Pair with HackerRank
+
+- Book/Video: "Introduction to Algorithms" (CLRS) – reference only
+- Free course: takeuforward (YouTube) – Striver’s sheet
+- NeetCode 150 (good companion)
+- "Competitive Programmer’s Handbook" (free PDF)
+
+Good luck!  
+You got this. Code daily → results will come. 💻🔥
+
+Star this repo if it helped!  
+Last updated: March 2026
