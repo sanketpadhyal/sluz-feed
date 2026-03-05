@@ -1,0 +1,150 @@
+# Microsoft Learn: The Complete 2025–2026 Learning Roadmap  
+Your All-in-One Guide from Beginner → Advanced
+
+![Microsoft Learn Hero Banner](https://learn.microsoft.com/en-us/training/achievements/generic-generic-social.png)
+*(Microsoft Learn official banner – feel free to replace with a better screenshot if you want)*
+
+**Microsoft Learn** is Microsoft’s **free**, official, interactive learning platform where you can:
+
+- Learn Azure, Microsoft 365, Power Platform, AI, GitHub, Windows, .NET, SQL, Dynamics 365, Security + more
+- Do **real hands-on labs** in your browser (no credit card needed for most modules)
+- Earn **badges**, **trophies**, and **certifications**
+- Prepare for official Microsoft exams (many paths give 50–100% discount vouchers)
+
+This README is your personal **learning map** — beginner to expert — updated for 2025–2026 trends.
+
+---
+
+## 🎯 Why Microsoft Learn in 2025–2026?
+
+- AI is everywhere → Copilot, Azure AI, Fabric, Phi-3/4 models, Azure OpenAI
+- Cloud is still growing fast → most in-demand jobs require Azure
+- Low-code / No-code explosion → Power Apps, Power Automate, Power BI
+- Huge demand for security & compliance skills
+- Free forever (no subscription required)
+
+---
+
+## 🚀 Learning Paths by Skill Level
+
+### 🟢 Level 1 – Absolute Beginner (0–3 months)
+
+Goal: Understand what Microsoft offers and get your first badge
+
+Recommended starting paths (in this order):
+
+1. **[Welcome to Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/get-started-with-microsoft-learn/)**  
+   → Create account, understand badges, leaderboards, profiles
+
+2. **[Azure Fundamentals AZ-900](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-cloud-concepts/)**  
+   → Cloud basics, what is Azure, IaaS/PaaS/SaaS, pricing, support
+
+3. **[Microsoft 365 Fundamentals MS-900](https://learn.microsoft.com/en-us/training/paths/microsoft-365-fundamentals/)**  
+   → Teams, Outlook, OneDrive, SharePoint, security basics
+
+4. **[Power Platform Fundamentals PL-900](https://learn.microsoft.com/en-us/training/paths/power-platform-fundamentals/)**  
+   → What is low-code? Power Apps, Power Automate, Power BI, Dataverse
+
+5. **[Introduction to Generative AI](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/)**  
+   → Very important in 2025–2026!
+
+**Milestone badges to collect first:**
+- Azure Fundamentals
+- Microsoft 365 Fundamentals
+- Power Platform Fundamentals
+- AI-900: Azure AI Fundamentals (very popular)
+
+---
+
+### 🟡 Level 2 – Beginner to Intermediate (3–9 months)
+
+Goal: Build real projects and decide your specialization
+
+Popular specializations:
+
+**Cloud / Azure**
+- AZ-104: Azure Administrator
+- AZ-204: Developing Solutions for Azure
+- AZ-305: Designing Microsoft Azure Infrastructure Solutions
+
+**Data & AI**
+- DP-203: Data Engineering on Microsoft Fabric & Azure
+- DP-600: Fabric Analytics Engineer
+- AI-102: Designing and Implementing a Microsoft Azure AI Solution
+
+**Low-Code / Business Apps**
+- PL-100: Microsoft Power Platform App Maker
+- PL-200: Microsoft Power Platform Functional Consultant
+- PL-400: Microsoft Power Platform Developer
+
+**Security**
+- SC-900: Microsoft Security, Compliance, and Identity Fundamentals
+- SC-200: Microsoft Security Operations Analyst
+
+**Developer**
+- AZ-204 → then either .NET, GitHub Actions, or Azure Functions
+
+**Recommended order for most people in 2025:**
+1. AZ-900 + AI-900 + PL-900
+2. Pick one role: Administrator (AZ-104), Developer (AZ-204), Data (DP-203/DP-600), Security (SC-200), Power Platform (PL-200/PL-400)
+
+---
+
+### 🔴 Level 3 – Advanced / Expert (9+ months)
+
+Goal: Become job-ready or go for Architect / Specialty level
+
+**Most respected advanced certifications (2025–2026):**
+
+- **AZ-305** – Designing Azure Infrastructure Solutions (Architect)
+- **DP-600** – Fabric Analytics Engineer Associate
+- **AI-102** – Azure AI Engineer Associate
+- **AZ-400** – DevOps Engineer Expert
+- **SC-100** – Cybersecurity Architect Expert
+- **DP-500** – Designing and Implementing Enterprise-Scale Analytics Solutions (very hot)
+
+**Expert-level paths people aim for:**
+- Solutions Architect Expert → AZ-305 + AZ-104 + AZ-204
+- DevOps Engineer Expert → AZ-400 + AZ-204 + AZ-104
+- Data Engineer → DP-203 + DP-600 + DP-500
+
+---
+
+## 🛠️ Best Learning Strategy (2025–2026)
+
+1. **Daily habit** → 30–60 min every day
+2. **Always do the hands-on labs** — theory alone is not enough
+3. **Use Sandbox** when available (free temporary Azure environment)
+4. **Join Microsoft Learn community** → ask questions, help others
+5. **Track progress** → https://learn.microsoft.com/en-us/training/profile/
+6. **Collect vouchers** → many modules give 50–100% off exam fee
+7. **Schedule exam** → Pearson VUE or online proctored
+
+---
+
+## 📊 Popular Certification Roadmap 2025–2026
+
+```mermaid
+graph TD
+    A[Start Here] --> B(AZ-900 Azure Fundamentals)
+    A --> C(AI-900 Azure AI Fundamentals)
+    A --> D(PL-900 Power Platform Fundamentals)
+    A --> E(MS-900 Microsoft 365 Fundamentals)
+
+    B --> F(AZ-104 Administrator)
+    F --> G(AZ-305 Architect)
+
+    C --> H(AI-102 Azure AI Engineer)
+
+    D --> I(PL-100 App Maker)
+    I --> J(PL-200 Functional Consultant)
+    J --> K(PL-400 Developer)
+
+    E --> L(SC-900 Security Fundamentals)
+    L --> M(SC-200 Security Operations)
+
+    subgraph "Hot 2025–2026"
+        N[DP-600 Fabric Analytics Engineer]
+        O[DP-203 Data Engineering]
+        P[AZ-400 DevOps Expert]
+    end
