@@ -1,0 +1,112 @@
+# The Full Story of Remote OK – From 2015 MVP to Multi-Million Dollar Remote Job Board
+
+Remote OK (remoteok.com / originally remoteok.io) is one of the most successful indie-built job boards in the world — focused 100% on **remote jobs**.
+
+It was created single-handedly by Dutch indie hacker / digital nomad **Pieter Levels** (@levelsio), and remains one of his flagship projects along with Nomad List.
+
+## Quick Timeline
+
+- **Late 2014** — Started as "Nomad Jobs" (simple remote-friendly job listings tied to Nomad List community)
+- **February 2015** — Re-launched / spun out as standalone **Remote OK** (remoteok.io)
+- **February 22, 2015** — Launched on Product Hunt → reached #1 that day with \~1,000 upvotes (became one of the highest voted products ever at the time)
+- **2015–2019** → Steady growth among early digital nomads, indie hackers and remote-first startups
+- **2020–2021** → Exploded during COVID remote work boom (many sources report \~$30k–$50k/month at peaks)
+- **2022–2025** → Became consistent multi-million ARR business (reports of $1.5M–$3.4M+ annual revenue in different years)
+- **2026 (current)** → Still #1 most visited remote-only job board, posting tens of thousands of jobs, serving millions of remote workers
+
+## Origin & Motivation (2014–2015)
+
+Pieter Levels was deep into his famous "12 startups in 12 months" challenge (2014).
+
+He had already launched **Nomad List** (mid-2014) — a crowd-sourced database ranking cities for digital nomads (internet speed, cost of living, safety, etc.).
+
+Very quickly he noticed the biggest pain point in the community:
+
+> "Everyone wants to become location-independent… but almost no centralized place existed to find actual **remote jobs**."
+
+Jobs were scattered across AngelList, HN "Who is hiring?", Reddit, separate company career pages — no dedicated remote filter.
+
+So in late 2014 he started aggregating remote-friendly listings under "Nomad Jobs".
+
+In **February 2015** he gave it a clean domain + brand: **Remote OK**.
+
+Key principles from day one (classic Pieter Levels style):
+
+- Minimal MVP (vanilla HTML + jQuery + PHP + SQLite)
+- Built + launched in weeks
+- Aggregated jobs automatically (scraping + API pulls + manual moderation later)
+- Monetized via paid job postings from the beginning (\~$200–$300 per post initially)
+- No team, no VC, no office — 100% bootstrapped & remote
+
+## The Product Hunt Launch (Feb 2015)
+
+Pieter submitted Remote OK to Product Hunt on Sunday morning (early SF time).
+
+It shot to #1 that day.
+
+Reached top 15 highest-voted products **of all time** on PH (back when PH was at peak influence).
+
+This gave massive early traction among tech / startup / indie people — exactly the audience that cared about remote work in 2015.
+
+## Growth Phases
+
+**2015–2019** — Niche indie / nomad phase  
+Mostly known in digital nomad circles, indie hackers, early remote companies (Buffer, GitLab, Automattic, Basecamp).
+
+**2020–2022** — COVID super-cycle  
+Remote work went mainstream → traffic & revenue exploded.  
+Multiple reports show peaks of **$40k–$50k+ MRR** (\~$500k–$600k ARR).
+
+**2023–2026** — Mature #1 remote job platform  
+- 1M+ remote jobs indexed over lifetime  
+- Millions of monthly visitors  
+- Revenue consistently reported in **$1.5M–$3.4M ARR** range (sometimes higher)  
+- Still solo-maintained (with automation + occasional contractors for support/moderation)  
+- Added features: OpenSalaries, async/remote filters, distributed team tags, AI-related job tags, premium subscriptions for job seekers
+
+## Business & Revenue Model
+
+- **Core revenue**: Companies pay to post jobs (one-time or featured)  
+- Pricing evolved over time (hundreds to thousands per post depending on promotion)  
+- Very high margins (almost no staff, low server costs)  
+- No ads on the site itself (clean UX focus)  
+- Secondary: job seeker premium access (rarely emphasized)
+
+## Why It Won
+
+- First-mover in pure-remote job niche (2015)  
+- Extremely simple, fast, no-BS UX  
+- Strong SEO (ranks #1–3 for "remote jobs" variants)  
+- Pieter's personal brand & Twitter audience gave free distribution  
+- Timing: rode both digital nomad wave (2010s) + full remote mainstream wave (2020s)  
+- 100% focus on remote — no hybrid/office dilution
+
+## Current Status (March 2026)
+
+Remote OK remains the #1 most trafficked remote-only job board.
+
+Still owned & operated by Pieter Levels.
+
+Domain: https://remoteok.com
+
+Still minimalist, fast-loading, thousands of live listings daily.
+
+Frequently cited as one of the best examples of **indie hacking success** — built by one person → multi-million dollar business → still running 11 years later.
+
+## Famous Pieter Levels Quotes about Remote OK
+
+> "I built it because I saw nomads around me struggling to find remote jobs. They were all over different sites. I just aggregated them."  
+> (2015 launch post)
+
+> "Remote OK runs itself now."  
+> (multiple interviews 2020–2025)
+
+## Links & Sources
+
+- Official site: https://remoteok.com
+- Original 2015 launch story: https://levels.io/remote-ok
+- Pieter's X/Twitter: https://twitter.com/levelsio
+- Many revenue numbers come from Pieter's own tweets, Indie Hackers interviews, Lex Fridman podcast, My First Million podcast, etc.
+
+Made remotely, for remote people.  
+🏝️
